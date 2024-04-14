@@ -16,7 +16,7 @@ The book recommendation dataset used in this application can be found on Kaggle:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your_username/book-recommendation.git
+   git clone https://github.com/AADITI-NIRFARAKE/Recommendation_System.git
    ```
 
 2. **Install Dependencies**
