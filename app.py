@@ -53,8 +53,7 @@ def welcome():
 def recommendation():
     selected_books = st.selectbox(
         "Type or select a book from the dropdown",
-        #books
-        book_names
+        pt.index
     )
 
     if st.button('Show Recommendation'):
