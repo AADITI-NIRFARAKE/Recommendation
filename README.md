@@ -11,6 +11,8 @@ This is a simple book recommendation application built using Streamlit. The app 
 
 The book recommendation dataset used in this application can be found on Kaggle: [Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset).
 
+## Try out the live demo [here](https://book-recommendationsystem.streamlit.app/) 
+
 ## Usage
 
 1. **Clone the Repository**
